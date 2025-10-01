@@ -6,4 +6,22 @@
 			<reason>The exclamation point is part an interjection which is a complete clause.</reason>
 		</ignore>
 	</file>
+	<file path="chapter-2-12.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Dialog from the same speaker spans multiple &lt;p&gt; elements</reason>
+		</ignore>
+	</file>
+	<file path="chapter-3-1.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Dialog from the same speaker spans multiple &lt;p&gt; elements</reason>
+		</ignore>
+	</file>
+	<file path="chapter-3-7.xhtml">
+		<ignore>
+			<code>t-003</code>
+			<reason>Dialog from the same speaker spans multiple &lt;p&gt; elements</reason>
+		</ignore>
+	</file>
 </se-lint-ignore>
