@@ -34,43 +34,48 @@
 		<meta property="term" refines="#subject-1">Unknown</meta>
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">Unknown</meta>
-		<meta property="se:subject">TAG</meta>
-		<dc:description id="description">DESCRIPTION</dc:description>
+		<meta property="se:subject">Fiction</meta>
+		<dc:description id="description">The Polish inhabitants of the village of Lipka deal with family conflicts, squabbles over land, societal unrest, and the changing of the seasons.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
 			LONG_DESCRIPTION
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/75846</dc:source>
-		<dc:source>IA_URL</dc:source>
-		<meta property="se:production-notes">PRODUCTION_NOTES</meta>
+		<dc:source>https://www.gutenberg.org/ebooks/76328</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/76330</dc:source>
+		<dc:source>https://www.gutenberg.org/ebooks/76329</dc:source>
+		<dc:source>https://archive.org/details/peasantsautumn0000ladi</dc:source>
+		<dc:source>https://archive.org/details/peasantswinter0000ladi/</dc:source>
+		<dc:source>https://archive.org/details/peasantsspring0000ladi</dc:source>
+		<dc:source>https://archive.org/details/peasantssummer0000ladi/</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
-		<meta property="se:url.encyclopedia.wikipedia">EBOOK_WIKI_URL</meta>
+		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Peasants</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/wladyslaw-reymont_the-peasants_michael-henry-dziewicki</meta>
 		<dc:creator id="author">Władysław Reymont</dc:creator>
 		<meta property="file-as" refines="#author">Reymont, Władysław</meta>
-		<meta property="se:name.person.full-name" refines="#author">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#author">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#author">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#author">Władysław Stanisław Reymont </meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#author">https://en.wikipedia.org/wiki/W%C5%82adys%C5%82aw_Reymont</meta>
+		<meta property="se:url.authority.nacoaf" refines="#author">http://id.loc.gov/authorities/names/n50075843</meta>
 		<meta property="role" refines="#author" scheme="marc:relators">aut</meta>
 		<dc:contributor id="translator">Michael Henry Dziewicki</dc:contributor>
 		<meta property="file-as" refines="#translator">Dziewicki, Michael Henry</meta>
-		<meta property="se:name.person.full-name" refines="#translator">CONTRIBUTOR_FULL_NAME</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#translator">CONTRIBUTOR_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#translator">CONTRIBUTOR_NACOAF_URI</meta>
+		<meta property="se:name.person.full-name" refines="#translator">Michał Henryk Seweryn Dziewicki</meta>
+		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/no2009177840</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
-		<dc:contributor id="artist">COVER_ARTIST</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
-		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">COVER_ARTIST_WIKI_URL</meta>
-		<meta property="se:url.authority.nacoaf" refines="#artist">COVER_ARTIST_NACOAF_URI</meta>
+		<meta property="role" refines="#translator" scheme="marc:relators">ann</meta>
+		<dc:contributor id="artist">Włodzimierz Tetmajer</dc:contributor>
+		<meta property="file-as" refines="#artist">Tetmajer, Włodzimierz</meta>
+		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/W%C5%82odzimierz_Tetmajer</meta>
+		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/authorities/names/n82239748</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
 		<dc:contributor id="transcriber-1">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-1">Distributed Proofreaders</meta>
 		<meta property="se:url.homepage" refines="#transcriber-1">https://www.pgdp.net/</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
-		<dc:contributor id="producer-1">PRODUCER</dc:contributor>
-		<meta property="file-as" refines="#producer-1">PRODUCER_SORT</meta>
-		<meta property="se:url.homepage" refines="#producer-1">PRODUCER_URL</meta>
+		<dc:contributor id="producer-1">Szymon Szott</dc:contributor>
+		<meta property="file-as" refines="#producer-1">Szott, Szymon</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://szymonszott.github.io/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
