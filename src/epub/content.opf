@@ -53,9 +53,9 @@
 		<dc:source>https://www.gutenberg.org/ebooks/76330</dc:source>
 		<dc:source>https://www.gutenberg.org/ebooks/76329</dc:source>
 		<dc:source>https://archive.org/details/peasantsautumn0000ladi</dc:source>
-		<dc:source>https://archive.org/details/peasantswinter0000ladi/</dc:source>
+		<dc:source>https://archive.org/details/peasantswinter0000ladi</dc:source>
 		<dc:source>https://archive.org/details/peasantsspring0000ladi</dc:source>
-		<dc:source>https://archive.org/details/peasantssummer0000ladi/</dc:source>
+		<dc:source>https://archive.org/details/peasantssummer0000ladi</dc:source>
 		<meta property="se:word-count">WORD_COUNT</meta>
 		<meta property="se:reading-ease.flesch">READING_EASE</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Peasants</meta>
