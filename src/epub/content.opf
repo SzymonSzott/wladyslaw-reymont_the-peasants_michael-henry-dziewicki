@@ -48,13 +48,21 @@
 			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/wladyslaw-reymont"&gt;Władysław Reymont&lt;/a&gt; published &lt;i&gt;The Peasants&lt;/i&gt; as a serial (1902 to 1908) and later as four separate volumes (1904 to 1909), with each volume describing a single season, from autumn to summer. This edition is of the first English translation, published in 1924. The book is notable for being a naturalistic account of rural everyday life and for describing many Polish traditions (some of which are still upheld). Critics praise its blend of realism with impressionism and symbolism. Consequently, Reymont was awarded the Nobel Prize in Literature in 1924 for this work.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
+		<!-- Transcription, Volume 1, Autumn -->
 		<dc:source>https://www.gutenberg.org/ebooks/75846</dc:source>
+		<!-- Transcription, Volume 2, Winter -->
 		<dc:source>https://www.gutenberg.org/ebooks/76328</dc:source>
+		<!-- Transcription, Volume 3, Spring -->
 		<dc:source>https://www.gutenberg.org/ebooks/76330</dc:source>
+		<!-- Transcription, Volume 4, Summer -->
 		<dc:source>https://www.gutenberg.org/ebooks/76329</dc:source>
+		<!-- Scan, Volume 1, Autumn -->
 		<dc:source>https://archive.org/details/peasantsautumn0000ladi</dc:source>
+		<!-- Scan, Volume 2, Winter -->
 		<dc:source>https://archive.org/details/peasantswinter0000ladi</dc:source>
+		<!-- Scan, Volume 3, Spring -->
 		<dc:source>https://archive.org/details/peasantsspring0000ladi</dc:source>
+		<!-- Scan, Volume 4, Summer -->
 		<dc:source>https://archive.org/details/peasantssummer0000ladi</dc:source>
 		<meta property="se:production-notes">Extraneous capitalization was removed from the following words: komorniki, dziads, oberek, sygnaturka, kolendy. All are lowercase in the original Polish.</meta>
 		<meta property="se:word-count">WORD_COUNT</meta>
